@@ -1,0 +1,24 @@
+[about]
+other = "À Propos"
+[service]
+other = "Un Service"
+[portfolio]
+other = "Portefeuille"
+[blog]
+other = "Blog"
+[contact]
+other = "Contacter"
+
+[graphicdesign]
+other = "Designeur Graphique"
+[webdesign]
+other = "Web designeur"
+[webdevelopment]
+other = "Web Developement"
+
+[partners]
+other = "Les Partenaires"
+[faqs]
+other = "FAQ's"
+[badges]
+other = "Insignes"
