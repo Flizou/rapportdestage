@@ -5,7 +5,7 @@ theme = "navigator-hugo"
 summaryLength = 10
 
 # Build robots.txt file
-enableRobotsTXT = false
+enableRobotsTXT = true
 # google analytics tracking id
 googleAnalytics = "" # your analitics ID
 
@@ -54,7 +54,7 @@ enable = true
 heading = "Mon Rapport de Stage"
 description = "Voici mon rapport de stage."
 button = true
-btnText = "Pour en savoir plus"
+btnText = "Pour en savoir +"
 btnURL = "http://localhost:1313/blog/"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
