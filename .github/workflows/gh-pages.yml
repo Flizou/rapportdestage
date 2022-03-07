@@ -1,5 +1,4 @@
 name: github pages
-# https://github.com/LilacIntelSoft/new.eyerobot.io
 on:
   push:
     branches:

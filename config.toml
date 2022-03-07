@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://flizou.github.io/rapportdestage/"
 languageCode = "fr-fr"
 title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "navigator-hugo"
