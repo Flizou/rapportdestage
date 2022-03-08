@@ -1,7 +1,7 @@
 ---
 title: "Jour 3"
 date: 2022-03-02T12:22:40+06:00
-image: images/blog/post-2.jpg
+image: images/blog/capjss.jpg
 author: Florian Muet
 description: "This is meta description"
 ---
