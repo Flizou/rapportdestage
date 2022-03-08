@@ -77,10 +77,10 @@ subtitle = "Voici mon blog, la ou est écrit mon rapport de stage."
 enable = true
 topTitle = "Prends des notes"
 title = "Contactez-Nous"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-address = "14/05, Stockhome <br> Victori Palace , United States"
-phone = "(03) 9283 2617"
-fax = "+61 3827 3590"
+subtitle = ""
+# address = "14/05, Stockhome <br> Victori Palace , United States"
+# phone = "(03) 9283 2617"
+# fax = "+61 3827 3590"
 facebook = "https://www.facebook.com/"
 twitter = "https://twitter.com/"
 linkedin = "https://www.linkedin.com/"
@@ -95,7 +95,7 @@ mapMarker = "images/marker.png"
 enable = true
 bg = "images/call-to-action/call-to-action-bg-2.jpg"
 title = "FRANCAIS Créons quelque chose ensemble"
-subtitle = "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+subtitle = ""
 btnText = "Nous contacter"
 
 
