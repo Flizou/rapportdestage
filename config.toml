@@ -109,14 +109,14 @@ expire_days = 2
 [menu]
 # Navbar Menus
 [[menu.nav]]
-name = "about"
-url = "about/"
+name = "à propos"
+# url = "about/"
 weight = 2
 [[menu.nav]]
 name = "service"
 url = "service/"
 weight = 3
-[[menu.nav]]
+# [[menu.nav]]
 name = "portfolio"
 url = "portfolio/"
 weight = 4
@@ -130,33 +130,33 @@ url = "contact/"
 weight = 6
 
 # Footer Service Menu
-[[menu.service]]
-name = "graphicdesign"
-url = "service/"
-weight = 1
-[[menu.service]]
-name = "webdesign"
-url = "service/"
-weight = 2
-[[menu.service]]
-name = "webdevelopment"
-url = "service/"
-weight = 3
+# [[menu.service]]
+# name = "graphicdesign"
+# url = "service/"
+# weight = 1
+# [[menu.service]]
+# name = "webdesign"
+# url = "service/"
+# weight = 2
+# [[menu.service]]
+# name = "webdevelopment"
+# url = "service/"
+# weight = 3
 
-# Footer Quick links Menu
-[[menu.quicklink]]
-name = "partners"
-url = "about/"
-weight = 1
-[[menu.quicklink]]
-name = "about"
-url = "about/"
-weight = 2
-[[menu.quicklink]]
-name = "faqs"
-url = "about/"
-weight = 3
-[[menu.quicklink]]
-name = "badges"
-url = "about/"
-weight = 4
+# # Footer Quick links Menu
+# [[menu.quicklink]]
+# name = "partners"
+# url = "about/"
+# weight = 1
+# [[menu.quicklink]]
+# name = "about"
+# url = "about/"
+# weight = 2
+# [[menu.quicklink]]
+# name = "faqs"
+# url = "about/"
+# weight = 3
+# [[menu.quicklink]]
+# name = "badges"
+# url = "about/"
+# weight = 4
