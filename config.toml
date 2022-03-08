@@ -76,7 +76,7 @@ subtitle = "Voici mon blog, la ou est écrit mon rapport de stage."
 [Languages.fr.params.contact]
 enable = true
 topTitle = "Prends des notes"
-title = "Contactez-Nous"
+title = "Mes réseaux soiaux"
 subtitle = ""
 # address = "14/05, Stockhome <br> Victori Palace , United States"
 # phone = "(03) 9283 2617"
@@ -84,19 +84,19 @@ subtitle = ""
 facebook = "https://www.facebook.com/"
 twitter = "https://twitter.com/"
 linkedin = "https://www.linkedin.com/"
-dribbble = "https://youtube.com/"
+dribbble = "https://dribbble.com/"
 instagram = "https://www.instagram.com/flizou__ytb/"
 mapLatitude = "51.507351"
 mapLongitude = "-0.127758"
-mapMarker = "images/marker.png"
+# mapMarker = "images/marker.png"
 
 # Call to Action Section on About Page
-[Languages.fr.params.cta]
-enable = true
-bg = "images/call-to-action/call-to-action-bg-2.jpg"
-title = "FRANCAIS Créons quelque chose ensemble"
-subtitle = ""
-btnText = "Nous contacter"
+# [Languages.fr.params.cta]
+# enable = true
+# bg = "images/call-to-action/call-to-action-bg-2.jpg"
+# title = "FRANCAIS Créons quelque chose ensemble"
+# subtitle = ""
+# btnText = "Nous contacter"
 
 
 # cookies
