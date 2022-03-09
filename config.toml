@@ -67,7 +67,7 @@ description = "Mon rapport de stage est tenu sous forme de blog, tout les Jours,
 # Blog Section On Homepage
 [Languages.fr.params.blog]
 enable = true
-topTitle = "OUR UNTOLD STORY"
+topTitle = ""
 title = "Blog."
 subtitle = "Voici mon blog, la ou est écrit mon rapport de stage."
 
