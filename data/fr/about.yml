@@ -2,12 +2,12 @@ enable  : true
 item    :
   - positionRight : false
     image : images/about/about-1.jpg
-    title : FRANCAIS Creativity is in our blood
+    title : 3 Semaine de stage pour réussir à faire et a mettre en ligne le site
     description : >
-      FRANCAIS Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+      Pendant les 3 semaines ou j'étais en stage, j'ai créer,installer et modifier plein de choses.Je me suis créer un compte Github.
 
   - positionRight : true
     image : images/about/about-2.jpg
-    title : FRANCAIS We think out of the Box
+    title : Tout les autres détails sont dans mon blogue.
     description : >
-      FRANCAIS Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+    
