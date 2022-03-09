@@ -42,8 +42,7 @@ home = "Accueil"
 logo = "images/image4.jpg"
 menufixed = true
 
-footerDescription = "FRANCAIS Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
-footerServiceTitle = "Services"
+footerDescription = ""
 footerQuicklinkTitle = " Liens Rapide"
 footerAboutTitle = "Sur nos réseaux sociaux"
 footerSubscribeTitle = "Suivez-Nous"
@@ -55,7 +54,7 @@ heading = "Mon Rapport de Stage"
 description = "Voici mon rapport de stage."
 button = true
 btnText = "Pour en savoir +"
-btnURL = "http://localhost:1313/blog/"
+btnURL = "http://localhost:1313/rapportdestage/blog/"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 
