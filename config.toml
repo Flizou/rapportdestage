@@ -54,7 +54,7 @@ heading = "Mon Rapport de Stage"
 description = "Voici mon rapport de stage."
 button = true
 btnText = "Pour en savoir +"
-btnURL = "http://localhost:1313/rapportdestage/blog/"
+btnURL = "https://flizou.github.io/rapportdestage/blog/"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 
