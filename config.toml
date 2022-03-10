@@ -62,7 +62,7 @@ videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 [Languages.fr.params.aboutSm]
 enable = true
 title = " Comment est tenu mon rapport de stage"
-description = "Mon rapport de stage est tenu sous forme de blog, tout les Jours, j'écris un mon activité de la journée.  "
+description = "Mon rapport de stage est tenu sous forme de blog, tout les Jours, j'écris mon activité de la journée.  "
 
 # Blog Section On Homepage
 [Languages.fr.params.blog]
