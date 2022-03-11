@@ -1,6 +1,6 @@
 ---
 title: Semaine 1 Présentation de l'entreprise
-date: 2022-02-28T17:04:41+06:00
+date: 2022-02-01T17:04:41+06:00
 image: images/blog/logo entreprise.jpg
 author: Florian Muet
 description: "This is meta description"
