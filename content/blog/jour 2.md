@@ -1,6 +1,6 @@
 ---
 title: "Jour 2"
-date: 2018-07-08T12:22:40+06:00
+date: 202-03-01T12:22:40+06:00
 image: images/blog/cap css.jpg
 author: Florian Muet
 description: "This is meta description"
@@ -12,4 +12,4 @@ description: "This is meta description"
 •	Le sélecteur,
 •	La propriété
 •	 La valeur
-La propriété couplée à une valeur induit la notion de règle (ou déclaration) qui détermine la modification apportée à un élément HTML déterminé par un sélecteur.*
+La propriété couplée à une valeur induit la notion de règle (ou déclaration) qui détermine la modification apportée à un élément HTML déterminé par un sélecteur.

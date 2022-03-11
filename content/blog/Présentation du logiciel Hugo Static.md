@@ -1,6 +1,6 @@
 ---
 title: Présentation du logiciel Hugo
-date: 2018-07-07T17:04:41+06:00
+date: 2022-03-01T17:04:41+06:00
 image: images/blog/logo-hugo.jpg
 author: Florian Muet
 description: "This is meta description"
