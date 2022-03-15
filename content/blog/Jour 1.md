@@ -1,6 +1,6 @@
 ---
 title: Jour 1 
-date: 2022-02-28T12:11:29+06:00
+date: 2022-02-01T12:11:29+06:00
 image: images/blog/image5.jpg
 author: Florian Muet
 description:  
