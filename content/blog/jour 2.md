@@ -1,6 +1,6 @@
 ---
 title: "Jour 2"
-date: 202-02-01T12:22:40+06:00
+date: 2022-02-02T12:11:29+06:00
 image: images/blog/cap css.jpg
 author: Florian Muet
 description: "This is meta description"
