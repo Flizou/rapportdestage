@@ -55,8 +55,8 @@ description = "Voici mon rapport de stage."
 button = true
 btnText = "Pour en savoir +"
 btnURL = "https://flizou.github.io/rapportdestage/blog/"
-videoThumb = "images/slider/video-player-thumb.jpg"
-videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
+# videoThumb = "images/slider/video-player-thumb.jpg"
+# videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 
 # About 2 Section
 [Languages.fr.params.aboutSm]
@@ -83,7 +83,7 @@ subtitle = ""
 facebook = "https://www.facebook.com/"
 twitter = "https://twitter.com/"
 linkedin = "https://www.linkedin.com/"
-dribbble = "https://dribbble.com/"
+dribbble = "https://youtube.com/"
 instagram = "https://www.instagram.com/flizou__ytb/"
 mapLatitude = "51.507351"
 mapLongitude = "-0.127758"
